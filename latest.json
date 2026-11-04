@@ -1,0 +1,12 @@
+{
+    "schemaVersion":  1,
+    "version":  "1.0.0",
+    "minVersion":  "1.0.0",
+    "url":  "https://github.com/ctwgjiao/netcheck-release/releases/latest/download/netcheck.exe",
+    "sha256":  "a266392b6ada961248b3e7c9ac17c48dedc7dda5f60518d64f3cef1fa44dda0f",
+    "signature":  "63Cls2YIHyumyEtA89XgrwQEY0MSUemPBP/vE39Wmw8sMOLtacf+r0bbWAjrz2IjgvDoT6m0ygOJy9X86m+CCg==",
+    "size":  13418496,
+    "mandatory":  false,
+    "notes":  "首个版本，主要能力：\n\n1. 环境检查：华为 / 华三 / 中兴 全系列 NETCONF + CLI 巡检，输出 Excel 报告。\n2. 自动更新：启动时后台检查新版本，菜单可手动检查并安装。\n3. 运行日志按级别落盘：运行结果/程序运行日志/{DEBUG,INFO,WARN,ERROR}/\n4. NETCONF 与 CLI 全量交互留痕：运行结果/\u003c云池\u003e/netconf_报文、cli_交互明细\n5. 报告全部 sheet 首行冻结，支持大表浏览。",
+    "publishedAt":  "2026-11-04T16:49:17+08:00"
+}
